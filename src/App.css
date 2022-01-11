@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+  
+  transform: translate(0%, 0%);
+  text-align: center;
+}
+
+body {
+  padding: 2rem;
+}
+
+button {
+  margin: 2rem 0;
+  padding: 1rem 2rem;
+  width: 120px;
+  cursor: pointer;
+}
+
+img {
+  width: 120px;
+}
+
+.submit{
+  transform: translate(0%, 60%);
+}
+
+.email:hover{
+  transform:scale(1.1, 1.1);
+}
+
+.pwd:hover{
+  transform:scale(1.1, 1.1);
+}
+
+.icon{
+  transform: translate(0%, -20%);
+}
+
+.bless{
+  font-size: 150%;
+  font-weight: 700;
+}
+
+
