@@ -8,7 +8,7 @@ function App() {
       <img src={Logo} class ="icon" alt="Logo" />
       <div>
         <p class = 'bless'>
-          Setyo Wahyu Trianto
+          Ahmad Nur Fahmi
         </p>
         <p>
           Silahkan Masuk Akun Kakaedu Anda
